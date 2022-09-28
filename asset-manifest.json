@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/list-films-project/static/css/main.24a836bd.css",
+    "main.js": "/list-films-project/static/js/main.5640828e.js",
+    "index.html": "/list-films-project/index.html",
+    "main.24a836bd.css.map": "/list-films-project/static/css/main.24a836bd.css.map",
+    "main.5640828e.js.map": "/list-films-project/static/js/main.5640828e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a836bd.css",
+    "static/js/main.5640828e.js"
+  ]
+}
